@@ -140,9 +140,11 @@ urlpatterns = [
 ```
 ## OUTPUT:
 
-![Alt text](image-2.png)
+![image](https://github.com/marcoyoi/serversideprocessing/assets/128804366/64673793-2898-4670-afb5-0fe1aa7b38a4)
+
 ### Home Page:
 
+![WhatsApp Image 2023-11-22 at 13 29 23_81ea33f4](https://github.com/marcoyoi/serversideprocessing/assets/128804366/855033bc-de76-4e77-8917-01ac9254de83)
 
 ## Result:
 the program is executed succssfully
